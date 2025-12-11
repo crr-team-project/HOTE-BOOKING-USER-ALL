@@ -1,0 +1,7 @@
+// Main styles entry point
+@use "./common/index";
+
+// Layouts
+@use "./layouts/MyPageLayout.scss";
+@use "./layouts/AuthPageLayout.scss";
+
